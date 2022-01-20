@@ -1,0 +1,14 @@
+.container {
+  height: 5vh;
+  margin: 1rem auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+  a:hover {
+    color: var(--yellow-500);
+  }
+  p {
+    font-size: small;
+  }
+}
